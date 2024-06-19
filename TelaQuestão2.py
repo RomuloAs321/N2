@@ -1,16 +1,7 @@
-
-#Codigo Questão 2
-
-
-# Importa a biblioteca Pygame para a criação de jogos e multimídia
 import pygame  
-# Importa todas as constantes e funções locais do Pygame                           
 from pygame.locals import *
-# Importa todas as funções e constantes do OpenGL relacionadas à renderização               
 from OpenGL.GL import *
-# Importa todas as funções e constantes do GLUT (OpenGL Utility Toolkit)                   
 from OpenGL.GLUT import *   
-# Importa a função gluOrtho2D da GLU (OpenGL Utility Library) para definir projeção ortográfica              
 from OpenGL.GLU import gluOrtho2D         
 
 # Inicializa todos os módulos do Pygame

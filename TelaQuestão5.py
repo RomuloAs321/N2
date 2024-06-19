@@ -1,10 +1,6 @@
-# Importa o módulo pygame para criar a aplicação
 import pygame  
-# Importa as constantes do pygame
 from pygame.locals import *  
-# Importa as funções OpenGL
 from OpenGL.GL import *  
-# Importa as funções OpenGL Utility
 from OpenGL.GLU import *  
 
 # Importa o módulo math para operações matemáticas
